@@ -1,1 +1,6 @@
-
+git init
+git add .
+git commit -m "Starfilmes: primeira versão"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/starfilmes.git
+git push -u origin main
